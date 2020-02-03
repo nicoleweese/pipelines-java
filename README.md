@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/v-nweese0846/Sample%20project/_apis/build/status/nicoleweese.pipelines-java?branchName=master)](https://dev.azure.com/v-nweese0846/Sample%20project/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
